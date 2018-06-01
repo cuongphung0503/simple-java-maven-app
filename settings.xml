@@ -10,7 +10,7 @@
     <active>true</active>
     <protocol>http</protocol>
     <host>172.217.161.164</host>
-    <port>8080</port>
+    <port>80</port>
   </proxy>
 </proxies>
 </settings>
